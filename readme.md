@@ -36,6 +36,10 @@ Pre-built CV templates and guidelines for various industries:
 - `CV-HR/` - Human resources positions
 - `CV-IT/` - IT and technical roles
 
+Source: 
+- https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+- https://huggingface.co/datasets/jacob-hugging-face/job-descriptions
+
 ## 🚀 Getting Started
 
 1. Open `index.html` in your browser
